@@ -1,16 +1,12 @@
-# postapi
+1. Building List with JSON Data using Future Builder
+![03 08 2022_02 11 58_REC](https://user-images.githubusercontent.com/98485902/183156499-ed33b2c5-95a2-4a10-bf10-fcd685bacb24.png)
 
-A new Flutter project.
 
-## Getting Started
+2. Building List with JSON Data with custom Model
+![03 08 2022_02 10 57_REC](https://user-images.githubusercontent.com/98485902/183156424-3f0833af-a30d-4882-b8e0-852d31f12532.png)
 
-This project is a starting point for a Flutter application.
+3.Building List with Complex JSON using FutureBuilder
+![04 08 2022_01 37 33_REC](https://user-images.githubusercontent.com/98485902/183156573-93b4645a-a6b0-4bcf-9f45-ed53f5e4d0fb.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4.Building List with Complex JSON Data WithOut Model Flutter Get API Call with null safety
+![04 08 2022_02 16 38_REC](https://user-images.githubusercontent.com/98485902/183156722-726d9183-86ae-4593-b12a-3ada4bad5967.png)
