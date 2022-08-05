@@ -1,7 +1,7 @@
-1. Building List with JSON Data using Future Builder
-2. Building List with JSON Data with custom Model
-3.Building List with Complex JSON using FutureBuilder
-4.Building List with Complex JSON Data WithOut Model Flutter Get API Call with null safety
+1. Building List with JSON Data using Future Builder\n
+2. Building List with JSON Data with custom Model\n
+3.Building List with Complex JSON using FutureBuilder\n
+4.Building List with Complex JSON Data WithOut Model Flutter Get API Call with null safety\n
 
 ![03 08 2022_02 11 58_REC](https://user-images.githubusercontent.com/98485902/183156499-ed33b2c5-95a2-4a10-bf10-fcd685bacb24.png)
 
